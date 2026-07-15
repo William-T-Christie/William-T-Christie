@@ -32,3 +32,8 @@ A couple of other projects (a Miami restaurant picker and a screen-time app) are
 ### How I work
 
 I'd rather build the whole thin slice (data, logic, and interface) than one piece in isolation. I try to make things you can actually trust: in Pulse, every score can be traced back to the numbers behind it. And I use what I build. Pulse runs on my own phone every day.
+
+### Find me
+
+- Portfolio: https://william-t-christie.github.io/personal-site/
+- LinkedIn: https://www.linkedin.com/in/christie-william
