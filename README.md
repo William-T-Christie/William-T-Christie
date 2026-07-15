@@ -11,16 +11,23 @@ It reads HealthKit and works out recovery, strain, and sleep scores entirely on 
 - 📊 Live overview: https://william-t-christie.github.io/pulse/
 - 💻 Code: https://github.com/William-T-Christie/pulse
 
-### A few things I've built
+### Main projects
 
 | Project | What it is | Built with |
 |---|---|---|
 | [pulse](https://github.com/William-T-Christie/pulse) | On-device Apple Watch recovery dashboard | Swift, SwiftUI, HealthKit |
 | [meal-prep-tool](https://github.com/William-T-Christie/meal-prep-tool) | Meal planner that turns a dietary profile into a week of meals, scaled recipes, and a shopping list | Next.js, TypeScript, Claude API, Prisma |
 | [n-equals-one](https://github.com/William-T-Christie/n-equals-one) | Local-first personal fitness data tracker (feeds Pulse's next phase) | TypeScript, Node |
-| [personal-site](https://william-t-christie.github.io/personal-site/) | Portfolio site with a few small apps and my resume | HTML, CSS, JS |
 
-A couple of older projects are being cleaned up and will be back soon.
+### Smaller apps and experiments
+
+| Project | What it is | Live |
+|---|---|---|
+| [linksmith](https://github.com/William-T-Christie/linksmith) | Chrome extension for capturing, formatting, and organizing links. Fully local, no tracking | Chrome extension |
+| [buzzword-bingo](https://github.com/William-T-Christie/buzzword-bingo) | Scores meeting recordings for corporate jargon. Whisper AI and FFmpeg run right in the browser | [demo](https://william-t-christie.github.io/buzzword-bingo/) |
+| [personal-site](https://github.com/William-T-Christie/personal-site) | My portfolio, with a dual-mode design and a few small apps (Billy Joel affirmations, and more) | [site](https://william-t-christie.github.io/personal-site/) |
+
+A couple of other projects (a Miami restaurant picker and a screen-time app) are being cleaned up and will be back soon.
 
 ### How I work
 
